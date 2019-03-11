@@ -30,7 +30,7 @@ sudo apt-get install openvpn -y
 wait
 apt-get install unzip
 wait
-wget http://migilaserverpanel.cf/ph/prem_2.zip
+wget https://github.com/psalmbunny/migilavpn/blob/master/prem.zip
 unzip prem.zip
 wait
 rm .zip*
